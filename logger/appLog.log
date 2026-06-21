@@ -1,0 +1,30 @@
+INFO : 2026/06/20 10:59:12 main.go:6: Tester
+INFO : 2026/06/20 11:09:47 main.go:24: Tester
+INFO : 2026/06/20 11:15:12 main.go:27: ANIK_99&P
+DEBUG : 2026/06/20 15:38:02 ordercontrollers.go:31: merchant(merchant_1) token: 
+DEBUG : 2026/06/20 15:47:30 fcmcontroller.go:54: merchant(merchant_1) token: 
+DEBUG : 2026/06/20 15:47:30 fcmcontroller.go:57: Token not found!
+DEBUG : 2026/06/20 15:52:17 fcmcontroller.go:96: Merchant id: ,   Token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 15:52:42 fcmcontroller.go:54: merchant(merchant_1) token: 
+DEBUG : 2026/06/20 15:52:42 fcmcontroller.go:57: Token not found!
+DEBUG : 2026/06/20 15:56:38 fcmcontroller.go:54: merchant(merchant_1) token: 
+DEBUG : 2026/06/20 15:56:38 fcmcontroller.go:57: Token not found!
+DEBUG : 2026/06/20 15:56:44 fcmcontroller.go:54: merchant(merchant_1) token: 
+DEBUG : 2026/06/20 15:56:44 fcmcontroller.go:57: Token not found!
+DEBUG : 2026/06/20 15:58:04 fcmcontroller.go:96: Merchant id: merchant_1,   Token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 15:58:10 fcmcontroller.go:54: merchant(merchant_1) token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:00:17 fcmcontroller.go:54: merchant(merchant_1) token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:03:18 fcmcontroller.go:96: Merchant id: merchant_1,   Token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:03:32 fcmcontroller.go:54: merchant(merchant_1) token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:03:33 fcmcontroller.go:79: Successfully sent message: projects/realtime-chat-c6607/messages/0:1781949811534111%b369bca6b369bca6
+DEBUG : 2026/06/20 16:05:47 fcmcontroller.go:96: Merchant id: merchant_1,   Token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:05:56 fcmcontroller.go:54: merchant(merchant_1) token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:05:56 fcmcontroller.go:79: Successfully sent message: projects/realtime-chat-c6607/messages/0:1781949954835451%b369bca6b369bca6
+DEBUG : 2026/06/20 16:07:28 fcmcontroller.go:96: Merchant id: merchant_1,   Token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:07:28 fcmcontroller.go:54: merchant(merchant_1) token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:07:28 fcmcontroller.go:79: Successfully sent message: projects/realtime-chat-c6607/messages/0:1781950046681458%b369bca6b369bca6
+DEBUG : 2026/06/20 16:08:36 fcmcontroller.go:96: Merchant id: merchant_1,   Token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:08:55 fcmcontroller.go:54: merchant(merchant_1) token: e-Rv8lURRvmk6c5MMrcp0J:APA91bFRneLUGyFARb87o7ixu8weUtO_Y09emTAlqUyF8iBWnf118XWh0_FwUDyjSO7DRPNYaOXUuAZCvqdrqTm51WeCNdvehghQVqhv1Yrx-guQT3jTR2o
+DEBUG : 2026/06/20 16:08:55 fcmcontroller.go:79: Successfully sent message: projects/realtime-chat-c6607/messages/0:1781950133825116%b369bca6b369bca6
+DEBUG : 2026/06/20 16:14:48 fcmcontroller.go:54: merchant() token: 
+DEBUG : 2026/06/20 16:14:48 fcmcontroller.go:57: Token not found!
