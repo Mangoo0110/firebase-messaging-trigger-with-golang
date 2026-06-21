@@ -1,1 +1,6 @@
 serviceAccountKey.json
+.vscode/
+public/
+*.llf
+*.bat
+.DS_Store
