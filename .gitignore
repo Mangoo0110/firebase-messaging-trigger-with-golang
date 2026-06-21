@@ -1,1 +1,7 @@
 serviceAccountKey.json
+public/
+*.llf
+*.bat
+.DS_Store
+config.bat
+node_modules
